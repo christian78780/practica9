@@ -1,0 +1,14 @@
+.container{
+    flex-direction:row-reverse; 
+    margin-left: auto;
+    margin-right: auto;
+    Display: flex;
+    flex-wrap: wrap;
+    Height: 300px; 
+    }
+    .item{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: solid green 3px;     
+    }
